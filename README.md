@@ -106,7 +106,6 @@ Published IEEE & arXiv researcher. Available immediately. Open to relocate anywh
 ![DataCamp](https://img.shields.io/badge/AI%20Engineer%20for%20Developers%20–%20Associate-03EF62?style=flat-square&logo=datacamp&logoColor=black)
 ![DataCamp](https://img.shields.io/badge/Data%20Scientist%20–%20Associate-03EF62?style=flat-square&logo=datacamp&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS%20AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Solutions%20Architect%20–%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Career%20Essentials%20in%20Data%20Analysis-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
