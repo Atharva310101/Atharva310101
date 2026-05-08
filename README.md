@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-pargaonkar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://atharva310101.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pargaonkaratharva2@gmail.com)
-[![Phone](https://img.shields.io/badge/+1_(208)_810--9126-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+12088109126)
 
 </div>
 
