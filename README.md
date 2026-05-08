@@ -86,12 +86,12 @@ Published IEEE & arXiv researcher. Available immediately. Open to relocate anywh
 
 | Project | Stack | Impact |
 |---|---|---|
-| [🤖 AI Financial Advisor (RAG)](https://github.com/Atharva310101/AI-Financial-Advisor-with-RAG) | LangChain · pgvector · FastAPI · Spring Boot · React | Hallucination-prevention over 191 SEC 10-K filings; 70% faster analyst review |
+| [📊 Coffee Sales & Customer Analytics]([https://github.com/Atharva310101/AI-Financial-Advisor-with-RAG](https://github.com/Atharva310101/End-to-End-E-commerce-Sales-Analysis-Project)) | Data Anysis · SQL · Excel · Power BI · Business Analytics | Analyzed 4+ years of transactional coffee sales data; enabling enterprise‑level sales and customer insights using advanced Excel analytics |
 | [🗺️ Agentic Travel Planner (MCP)](https://github.com/Atharva310101/agentic-travel-planner) | MCP · LangChain · FastAPI · RAG | 4 specialized agents; 60% manual planning reduction; 35% itinerary relevance gain |
 | [🔬 Semiconductor RCA Agent](https://github.com/Atharva310101/semiconductor-rca-ai-agent) | LangGraph · PyTorch · RAG · Docker · PostgreSQL | 811K+ wafer images × 1K+ test logs; 9-class defect model; full Docker deployment |
 | [📦 Probabilistic Demand Forecasting](https://github.com/Atharva310101/probabilistic-demand-forecasting) | LightGBM · Polars · MLflow · FastAPI | 60M+ rows; P10/P50/P90 quantile predictions; ~$2.1M annualized savings |
 | [📈 Customer Retention System](https://github.com/Atharva310101/Data-Science-Customer-Retention-System) | XGBoost · SHAP · BG/NBD · Streamlit · Gemini | 76% churn recall; top 1% customers = 40% revenue; Gemini LLM retention emails |
-| [💊 Medicare Claims Analytics](https://github.com/Atharva310101/medicare-claims-analytics) | PostgreSQL · Python · SQL · Matplotlib | 26.8M rows ingested in <10 min; 108K aberrant records; Z-score=27.03 outlier |
+| [💊 Medicare Claims Analytics]([https://github.com/Atharva310101/medicare-claims-analytics](https://github.com/Atharva310101/Healthcare-Claims-Analytics-Reporting-Pipeline)) | PostgreSQL · Python · SQL · Matplotlib | 26.8M rows ingested in <10 min; 108K aberrant records; Z-score=27.03 outlier |
 
 ---
 
