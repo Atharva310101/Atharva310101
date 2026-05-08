@@ -111,18 +111,15 @@ Published IEEE & arXiv researcher. Available immediately. Open to relocate anywh
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Atharva310101&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Atharva310101&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Atharva310101&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+---
+[![](https://komarev.com/ghpvc/?username=Atharva310101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Atharva310101&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva310101&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Atharva310101&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
